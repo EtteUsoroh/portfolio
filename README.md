@@ -1,7 +1,9 @@
 !--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi Dear! I'm Usoroh Jack "Driven Data Analysist specializing in data analysing Dedicated to creating impactful solutions, exceeding expectations, and embracing innovation. Passionate about professional growth, collaboration, and making meaningful contributions to every project."
+
+Does this align with your goals, or would you like more adjustments?🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
