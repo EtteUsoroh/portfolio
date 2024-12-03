@@ -26,7 +26,11 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](assets/Picture1.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+Analyze weekly performance data across rig locations.
+Identify key trends and areas of improvement.
+Provide actionable recommendations to optimize performance
+![image](https://github.com/user-attachments/assets/d357c112-0b00-45ed-8073-9bad20f2fca2)
+.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
