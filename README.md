@@ -33,7 +33,7 @@ Provide actionable recommendations to optimize performance
 .
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More]([https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/](https://www.linkedin.com/posts/usoroh-usoroh-jack-_performance-appraisal-of-uson-oil-rigs-activity-7267130490199965697-0Diq?utm_source=share&utm_medium=member_desktop))
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
